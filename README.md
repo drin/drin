@@ -5,14 +5,23 @@
 -->
 
 🌱
-My name is Aldrin (https://pronoun.is/he) and I’m about to start my 3rd year as a PhD student in computer science at UC Santa Cruz.
+My name is Aldrin ([he/him][doc-pronoun]) and I am currently a 5th year PhD student in computer science at UC Santa Cruz.
 
 👯
-I’m advised by Peter Alvaro and we work with Carlos Maltzahn, Jeff LeFevre, and Aaron Chu on declarative programmable storage.
+I am advised by Peter Alvaro and principally work with Philip Kufeldt, Josh Stuart, and Jeff LeFevre.
 
 🔭
-I’m most interested in data management systems, bioinformatics, programming languages, and distributed systems.
+My research interest is in the intersection of data management systems, storage systems, programming languages, and bioinformatics.
+
+👨🏽‍💻
+Additionally, I am trying to contribute to the [Apache Arrow][community-arrow] and [Human Cell Atlas][community-hca] communities.
 
 💬
-Feel free to ask me about anything, especially if you're interested in grad school, software development, bioinformatics, or just socializing!
-https://twitter.com/drin_montana
+Feel free to ask me about anything, e.g. grad school, software development, bioinformatics, or just socializing!
+
+
+<!-- Resources -->
+[community-arrow]: https://arrow.apache.org/community/
+[community-hca]:   https://www.humancellatlas.org/learn-more/
+
+[doc-pronoun]:     https://www.npr.org/2021/06/02/996319297/gender-identity-pronouns-expression-guide-lgbtq
