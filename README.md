@@ -5,7 +5,7 @@
 -->
 
 🌱
-My name is Aldrin ([he/him][doc-pronoun]) and I am currently a 5th year PhD student in computer science at UC Santa Cruz.
+My name is Aldrin ([he/him][doc-pronoun]) and I am currently a 6th year PhD student in computer science at UC Santa Cruz.
 
 👯
 I am advised by Peter Alvaro and principally work with Philip Kufeldt, Josh Stuart, and Jeff LeFevre.
